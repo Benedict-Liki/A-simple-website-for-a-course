@@ -1,2 +1,2 @@
-# A simple website for a course
+# A simple website for food processing and management course
  
